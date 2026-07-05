@@ -1,9 +1,7 @@
 <h1 align="center">Hi there, I'm Lakshmi Kanth Pulipaka 👋</h1>
 
-<h3 align="center">AI & Machine Learning Engineer | Computer Vision | Data Science</h3>
-
 <p align="center">
-  <i>🌍 Turning research and raw data into real-world, production-ready AI solutions 🚀</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+%7C+Deep+Learning+%7C+Data+Science;Building+real-world%2C+production-ready+AI+systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -80,19 +78,20 @@
 
 | Skill                  | Proficiency   | Experience |
 |-------------------------|:-------------:|:----------:|
-| Python for ML           | ⭐⭐⭐⭐⭐    | 2+ years   |
-| Data Analysis / EDA     | ⭐⭐⭐⭐⭐    | 2+ years   |
-| Computer Vision         | ⭐⭐⭐⭐      | 1+ years   |
-| Deep Learning           | ⭐⭐⭐⭐      | 1+ years   |
-| DSA & Software Dev      | ⭐⭐⭐⭐      | 1+ years   |
-
+| Python for ML           | ⭐⭐⭐⭐⭐    | 3+ years   |
+| Data Analysis / EDA     | ⭐⭐⭐⭐⭐    | 3+ years   |
+| Computer Vision         | ⭐⭐⭐⭐      | 2+ years   |
+| Deep Learning           | ⭐⭐⭐⭐      | 2+ years   |
+| DSA & Software Dev      | ⭐⭐⭐⭐      | 2+ years   |
+| MLOps                   | ⭐⭐⭐        | 1+ year    |
+| Cloud Services (GCP)    | ⭐⭐⭐        | 1+ year    |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kanth071&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kanth071&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kanth071&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -100,13 +99,38 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanth071&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+### 📈 Contribution Activity
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanth071&theme=tokyo-night&hide_border=true" width="90%" />
 </p>
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/2E9EF7/kanth071" alt="Contribution Graph" width="90%" />
+</p>
+
+<!--
+  🐍 Contribution Snake (animated):
+  To enable, add this GitHub Action to your kanth071/kanth071 repo:
+  https://github.com/Platane/snk — it generates a snake animation
+  from your contribution graph and updates it automatically.
+  Once generated, embed it here:
+  <img src="https://raw.githubusercontent.com/kanth071/kanth071/output/github-contribution-grid-snake.svg" width="90%" />
+-->
+
 ---
 
-### 🏆 Achievements & Highlights
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kanth071&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+### 🎖️ Achievements & Highlights
 
 - 🎓 Selected for the **Google BigCode Program** — recognized for DSA and algorithmic problem-solving
 - 🏅 **All India Rank 2139 in ICAT**, assessed on mathematical aptitude, logical reasoning, and programming
@@ -114,6 +138,12 @@
 - 📜 Certified: AWS AI & ML Scholars Challenge, Google Advanced Data Analytics Professional Certificate, IBM Machine Learning with Python
 - 📈 Improved model accuracy by **15%** and cut data preparation time by **40%** during a Data Science Internship at Developers Arena
 - 🔬 Contributing to open-source graph-based ML research at IIT Ropar's VLED Lab
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS_AI%2FML_Scholars-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Advanced_Data_Analytics-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM_Machine_Learning-052FAD?style=flat-square&logo=ibm&logoColor=white" />
+</p>
 
 ---
 
