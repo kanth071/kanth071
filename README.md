@@ -1,7 +1,9 @@
-<h1 align="center">Hi there, I'm Lakshmi Kanth Pulipaka 👋</h1>
+<h1 align="center">Lakshmi Kanth Pulipaka</h1>
+
+<h3 align="center">🤖 AI & Machine Learning Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+%7C+Deep+Learning+%7C+Data+Science;Building+real-world%2C+production-ready+AI+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2E9EF7&center=true&vCenter=true&width=580&lines=Computer+Vision+%7C+Deep+Learning+%7C+Data+Science" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,6 +16,11 @@
   <a href="https://github.com/kanth071">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Research_Intern-VLED_Lab,_IIT_Ropar-4B0082?style=flat-square" />
+  <img src="https://img.shields.io/badge/B.Tech_AI_%26_ML-CGPA_8.78%2F10-2E9EF7?style=flat-square" />
 </p>
 
 ---
@@ -84,7 +91,6 @@
 | Deep Learning           | ⭐⭐⭐⭐      | 2+ years   |
 | DSA & Software Dev      | ⭐⭐⭐⭐      | 2+ years   |
 | MLOps                   | ⭐⭐⭐        | 1+ year    |
-| Cloud Services (GCP)    | ⭐⭐⭐        | 1+ year    |
 
 ---
 
@@ -135,14 +141,21 @@
 - 🎓 Selected for the **Google BigCode Program** — recognized for DSA and algorithmic problem-solving
 - 🏅 **All India Rank 2139 in ICAT**, assessed on mathematical aptitude, logical reasoning, and programming
 - 🌐 Finalist, **Aspire Leaders Program** — global initiative on AI ethics and responsible ML deployment
-- 📜 Certified: AWS AI & ML Scholars Challenge, Google Advanced Data Analytics Professional Certificate, IBM Machine Learning with Python
 - 📈 Improved model accuracy by **15%** and cut data preparation time by **40%** during a Data Science Internship at Developers Arena
 - 🔬 Contributing to open-source graph-based ML research at IIT Ropar's VLED Lab
 
+**📜 Certifications**
+
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS_AI%2FML_Scholars-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Advanced_Data_Analytics-4285F4?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/IBM_Machine_Learning-052FAD?style=flat-square&logo=ibm&logoColor=white" />
+  <img src="./assets/certificates/aws_ai_ml_scholars.png" width="270" alt="AWS AI & ML Scholars Certificate" />
+  <img src="./assets/certificates/google_advanced_data_analytics.png" width="270" alt="Google Advanced Data Analytics Certificate" />
+  <img src="./assets/certificates/ibm_machine_learning.jpeg" width="270" alt="IBM Machine Learning with Python Certificate" />
+</p>
+
+<p align="center">
+  <b>AWS AI & ML Scholars Challenge</b> (AWS × Udacity) &nbsp;|&nbsp;
+  <b>Google Advanced Data Analytics Capstone</b> (Google × Coursera) &nbsp;|&nbsp;
+  <b>Machine Learning with Python</b> (IBM × Coursera)
 </p>
 
 ---
