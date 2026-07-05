@@ -85,12 +85,11 @@
 
 | Skill                  | Proficiency   | Experience |
 |-------------------------|:-------------:|:----------:|
-| Python for ML           | ⭐⭐⭐⭐⭐    | 3+ years   |
-| Data Analysis / EDA     | ⭐⭐⭐⭐⭐    | 3+ years   |
-| Computer Vision         | ⭐⭐⭐⭐      | 2+ years   |
-| Deep Learning           | ⭐⭐⭐⭐      | 2+ years   |
-| DSA & Software Dev      | ⭐⭐⭐⭐      | 2+ years   |
-| MLOps                   | ⭐⭐⭐        | 1+ year    |
+| Python for ML           | ⭐⭐⭐⭐⭐    | 2+ years   |
+| Data Analysis / EDA     | ⭐⭐⭐⭐⭐    | 2+ years   |
+| Computer Vision         | ⭐⭐⭐⭐      | 1+ years   |
+| Deep Learning           | ⭐⭐⭐⭐      | 1+ years   |
+| DSA & Software Dev      | ⭐⭐⭐⭐      | 1+ years   |
 
 ---
 
@@ -98,7 +97,7 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=kanth071&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kanth071&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=kanth071&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -117,18 +116,11 @@
   <img src="https://ghchart.rshah.org/2E9EF7/kanth071" alt="Contribution Graph" width="90%" />
 </p>
 
-  🐍 Contribution Snake (animated):
-  To enable, add this GitHub Action to your kanth071/kanth071 repo:
-  https://github.com/Platane/snk — it generates a snake animation
-  from your contribution graph and updates it automatically.
-  Once generated, embed it here:
-  <img src="https://raw.githubusercontent.com/kanth071/kanth071/output/github-contribution-grid-snake.svg" width="90%" />
--->
-
----
 
 
 ---
+
+
 
 ### 🎖️ Achievements & Highlights
 
@@ -139,7 +131,8 @@
 - 🔬 Contributing to open-source graph-based ML research at IIT Ropar's VLED Lab
 
 
----
+
+--
 
 ### 📌 Featured Projects
 
@@ -177,3 +170,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kanth071&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
+
