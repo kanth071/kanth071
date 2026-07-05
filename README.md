@@ -144,21 +144,6 @@
 - 📈 Improved model accuracy by **15%** and cut data preparation time by **40%** during a Data Science Internship at Developers Arena
 - 🔬 Contributing to open-source graph-based ML research at IIT Ropar's VLED Lab
 
-**📜 Certifications**
-
-<p align="center">
-  <img src="./assets/certificates/aws_ai_ml_scholars.png" width="270" alt="AWS AI & ML Scholars Certificate" /><br/>
-  <a href="https://coursera.org/verify/H2QLFANX8TBY"><img src="./assets/certificates/google_advanced_data_analytics.png" width="270" alt="Google Advanced Data Analytics Certificate" /></a><br/>
-  <a href="https://coursera.org/verify/0DW7E6H3FCQ9"><img src="./assets/certificates/ibm_machine_learning.jpeg" width="270" alt="IBM Machine Learning with Python Certificate" /></a>
-</p>
-
-<p align="center">
-  <b>AWS AI & ML Scholars Challenge</b> (AWS × Udacity)<br/>
-  <b>Google Advanced Data Analytics Capstone</b> (Google × Coursera) —
-  <a href="https://coursera.org/verify/H2QLFANX8TBY"><img src="https://img.shields.io/badge/View_Certificate-4285F4?style=flat-square&logo=coursera&logoColor=white" /></a><br/>
-  <b>Machine Learning with Python</b> (IBM × Coursera) —
-  <a href="https://coursera.org/verify/0DW7E6H3FCQ9"><img src="https://img.shields.io/badge/View_Certificate-052FAD?style=flat-square&logo=coursera&logoColor=white" /></a>
-</p>
 
 ---
 
