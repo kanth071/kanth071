@@ -13,7 +13,7 @@
   <a href="mailto:kanthpulipaka@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/pulibharat">
+  <a href="https://github.com/kanth071">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -80,29 +80,28 @@
 
 | Skill                  | Proficiency   | Experience |
 |-------------------------|:-------------:|:----------:|
-| Python for ML           | ⭐⭐⭐⭐⭐    | 3+ years   |
-| Data Analysis / EDA     | ⭐⭐⭐⭐⭐    | 3+ years   |
-| Computer Vision         | ⭐⭐⭐⭐      | 2+ years   |
-| Deep Learning           | ⭐⭐⭐⭐      | 2+ years   |
-| DSA & Software Dev      | ⭐⭐⭐⭐      | 2+ years   |
-| MLOps                   | ⭐⭐⭐        | 1+ year    |
-| Cloud Services (GCP)    | ⭐⭐⭐        | 1+ year    |
+| Python for ML           | ⭐⭐⭐⭐⭐    | 2+ years   |
+| Data Analysis / EDA     | ⭐⭐⭐⭐⭐    | 2+ years   |
+| Computer Vision         | ⭐⭐⭐⭐      | 1+ years   |
+| Deep Learning           | ⭐⭐⭐⭐      | 1+ years   |
+| DSA & Software Dev      | ⭐⭐⭐⭐      | 1+ years   |
+
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pulibharat&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=pulibharat&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kanth071&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kanth071&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulibharat&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanth071&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pulibharat&theme=tokyo-night&hide_border=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanth071&theme=tokyo-night&hide_border=true" width="90%" />
 </p>
 
 ---
@@ -114,7 +113,7 @@
 - 🌐 Finalist, **Aspire Leaders Program** — global initiative on AI ethics and responsible ML deployment
 - 📜 Certified: AWS AI & ML Scholars Challenge, Google Advanced Data Analytics Professional Certificate, IBM Machine Learning with Python
 - 📈 Improved model accuracy by **15%** and cut data preparation time by **40%** during a Data Science Internship at Developers Arena
-- 🔬 Contributing to open-source ML research at IIT Ropar's VLED Lab
+- 🔬 Contributing to open-source graph-based ML research at IIT Ropar's VLED Lab
 
 ---
 
@@ -122,11 +121,13 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🚚 **Delivery ETA Optimization** | Graph-analytics logistics platform predicting delivery ETAs and detecting bottleneck hubs, achieving 96%+ accuracy with Gradient Boosting; includes Dijkstra/A* route optimization and SLA breach monitoring | `Python` `Graph Analytics` `Streamlit` |
-| 🏥 **BedForecast** | Hospital bed demand forecasting platform using XGBoost, Random Forest, and Prophet for ICU/ward/emergency forecasting — 90% average accuracy with a live occupancy dashboard | `scikit-learn` `TensorFlow` `Streamlit` |
-| 🎥 **Campus Eye** | Real-time AI surveillance system for traffic violation detection using YOLOv8, with automated event logging and confidence-threshold filtering | `YOLOv8` `OpenCV` `FastAPI` |
+| 🚚 **[Delivery ETA Optimization](https://github.com/kanth071/Optimizing-Delivery-ETAs-with-Graph-Based-Network-Intelligence)** | Graph-analytics logistics platform predicting delivery ETAs and detecting bottleneck hubs, achieving 96%+ accuracy with Gradient Boosting; includes Dijkstra/A* route optimization and SLA breach monitoring | `Python` `Graph Analytics` `Streamlit` |
+| 🏥 **[Bed Prediction (BedForecast)](https://github.com/kanth071/Bed-prediction)** | Hospital bed demand forecasting platform using XGBoost, Random Forest, and Prophet for ICU/ward/emergency forecasting — 90% average accuracy with a live occupancy dashboard | `scikit-learn` `TensorFlow` `Streamlit` |
+| 🎥 **[Campus AI Dashboard](https://github.com/kanth071/campus-ai-dashboar)** | Real-time AI surveillance and campus monitoring dashboard for traffic violation detection using YOLOv8, with automated event logging | `YOLOv8` `OpenCV` `FastAPI` |
+| 🌩️ **[Fake Weather Alert Detection](https://github.com/kanth071/Fake-Weather-Alert-Detection)** | ML system to detect and flag fake or manipulated weather alerts | `Python` `ML` |
+| 📊 **[Power BI Dashboards](https://github.com/kanth071/power-bi)** | Data visualization and business intelligence dashboards for analytics reporting | `Power BI` |
 
-> 📁 Check out my [pinned repositories](https://github.com/pulibharat) for source code and detailed READMEs.
+> 📁 Check out my [pinned repositories](https://github.com/kanth071) for source code and detailed READMEs.
 
 ---
 
@@ -139,7 +140,7 @@
   <a href="mailto:kanthpulipaka@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/pulibharat">
+  <a href="https://github.com/kanth071">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -150,5 +151,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pulibharat&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=kanth071&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
