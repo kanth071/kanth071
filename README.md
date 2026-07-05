@@ -117,7 +117,6 @@
   <img src="https://ghchart.rshah.org/2E9EF7/kanth071" alt="Contribution Graph" width="90%" />
 </p>
 
-<!--
   🐍 Contribution Snake (animated):
   To enable, add this GitHub Action to your kanth071/kanth071 repo:
   https://github.com/Platane/snk — it generates a snake animation
@@ -128,11 +127,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kanth071&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
 
 ---
 
