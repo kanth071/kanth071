@@ -93,29 +93,28 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kanth071&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=kanth071&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kanth071&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=kanth071&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanth071&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanth071&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanth071&theme=tokyo-night&hide_border=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanth071&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2E9EF7/kanth071" alt="Contribution Graph" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanth071&theme=tokyonight"/>
 </p>
-
 
 
 ---
