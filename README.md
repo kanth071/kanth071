@@ -96,12 +96,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kanth071&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=kanth071&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kanth071&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+  
+  <img height="170" src="https://streak-stats.demolab.com?user=kanth071&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20%5B%5DY&cache_seconds=86400&v=3" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanth071&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanth071&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
