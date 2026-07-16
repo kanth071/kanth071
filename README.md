@@ -114,7 +114,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanth071&theme=tokyonight&cache_seconds=86400&v=3"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanth071&theme=tokyonight&cache_seconds=86400&v=4"/>
 </p>
 
 
