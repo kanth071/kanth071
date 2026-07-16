@@ -113,9 +113,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanth071&theme=tokyo-night&hide_border=true&area=true&cache_seconds=86400&v=3" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanth071&theme=tokyonight&cache_seconds=86400&v=4"/>
-</p>
 
 ---
 
