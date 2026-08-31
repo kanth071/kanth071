@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/B.Tech_AI_%26_ML-CGPA_8.78%2F10-2E9EF7?style=flat-square" />
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kanth071&show_icons=true&theme=radical)
 
 ---
 
