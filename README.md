@@ -1,14 +1,18 @@
 <div align="center">
 
-# Lakshmi Kanth Pulipaka
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=20&duration=3400&pause=1600&color=F0F6FC&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=70&lines=Turning+research+into+intelligent+systems+that+solve+real-world+problems.;Building+AI+that+learns+from+data+and+creates+impact+across+industries.+%F0%9F%9A%80" alt="mission" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=20&duration=3400&pause=1600&color=F0F6FC&background=141B2Dff&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=80&lines=Selected+for+Google+BigCode.+Researching+graph-based+ML+at+IIT+Ropar.;3+ML+systems+shipped+in+logistics%2C+healthcare+%26+campus+safety+%E2%80%94+before+graduating." alt="mission" />
+<br/>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <img src="https://readme-typing-svg.demolab.com/?font=Georgia&style=italic&weight=500&size=16&duration=1&pause=1000000&color=4F8EF7&background=00000000&center=true&width=560&height=28&lines=Code+with+precision.+Research+with+curiosity.+Build+for+impact." alt="motto" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/AI%20%26%20ML%20Engineer-4F8EF7?style=for-the-badge"/> <img src="https://img.shields.io/badge/Computer%20Vision-2EC4B6?style=for-the-badge"/> <img src="https://img.shields.io/badge/Graph%20Analytics-A78BFA?style=for-the-badge"/> <img src="https://img.shields.io/badge/Open%20Source-D4AF37?style=for-the-badge"/>
+# Lakshmi Kanth Pulipaka
+
+**AI & ML Engineer**&nbsp; • &nbsp;**Computer Vision**&nbsp; • &nbsp;**Graph Analytics**&nbsp; • &nbsp;**Open Source**
 
 <br/>
 
