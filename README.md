@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=21&duration=3400&pause=1600&color=F0F6FC&background=141B2Dff&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=90&lines=Selected+for+Google+BigCode.+Researching+graph-based+ML+at+IIT+Ropar.;3+ML+systems+shipped+in+logistics%2C+healthcare+%26+campus+safety+%E2%80%94+before+graduating." alt="mission" />
+# Lakshmi Kanth Pulipaka
 
-<img src="https://readme-typing-svg.demolab.com/?font=Georgia&style=italic&weight=500&size=17&duration=1&pause=1000000&color=4F8EF7&background=00000000&center=true&width=560&height=30&lines=Code+with+precision.+Research+with+curiosity.+Build+for+impact." alt="motto" />
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=20&duration=3400&pause=1600&color=F0F6FC&background=141B2Dff&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=80&lines=Selected+for+Google+BigCode.+Researching+graph-based+ML+at+IIT+Ropar.;3+ML+systems+shipped+in+logistics%2C+healthcare+%26+campus+safety+%E2%80%94+before+graduating." alt="mission" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Georgia&style=italic&weight=500&size=16&duration=1&pause=1000000&color=4F8EF7&background=00000000&center=true&width=560&height=28&lines=Code+with+precision.+Research+with+curiosity.+Build+for+impact." alt="motto" />
 
 <br/>
-
-# Lakshmi Kanth Pulipaka
 
 <img src="https://img.shields.io/badge/AI%20%26%20ML%20Engineer-4F8EF7?style=for-the-badge"/> <img src="https://img.shields.io/badge/Computer%20Vision-2EC4B6?style=for-the-badge"/> <img src="https://img.shields.io/badge/Graph%20Analytics-A78BFA?style=for-the-badge"/> <img src="https://img.shields.io/badge/Open%20Source-D4AF37?style=for-the-badge"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/🏅_Google_BigCode_Program-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/> <img src="https://img.shields.io/badge/🎯_AIR_2139_ICAT-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/> <img src="https://img.shields.io/badge/🔬_Research_Intern_·_IIT_Ropar-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/> <img src="https://img.shields.io/badge/🌐_Aspire_Leaders_Finalist-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/>
+<img src="https://img.shields.io/badge/🏅_Google_BigCode_Program-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/> <img src="https://img.shields.io/badge/🎯_AIR_2139_ICAT-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/> <img src="https://img.shields.io/badge/🚀_SparkTank_Finalist-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/> <img src="https://img.shields.io/badge/🔬_Research_Intern_·_IIT_Ropar-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/> <img src="https://img.shields.io/badge/🌐_Aspire_Leaders_Finalist-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/>
 
 <br/><br/>
 
@@ -38,24 +38,24 @@ I'm a pre-final-year **B.Tech in AI & ML** student at **Vishnu Institute of Tech
 <tr>
 <td width="50%" valign="top">
 
-![Building](https://img.shields.io/badge/Building-4F8EF7?style=flat-square) deep learning & computer vision systems that ship, not just notebooks that run
+🔵 &nbsp;**Building** — deep learning & computer vision systems that ship, not just notebooks that run
 
-![Learning](https://img.shields.io/badge/Learning-2EC4B6?style=flat-square) MLOps, system design, scalable model deployment
+🟢 &nbsp;**Learning** — MLOps, system design, scalable model deployment
 
-![Researching](https://img.shields.io/badge/Researching-A78BFA?style=flat-square) graph-based ML for relational data @ VLED Lab, IIT Ropar
+🟣 &nbsp;**Researching** — graph-based ML for relational data @ VLED Lab, IIT Ropar
 
-![Open to](https://img.shields.io/badge/Open%20to-D4AF37?style=flat-square) open-source AI/ML & data science collaborations
+🟡 &nbsp;**Open to** — open-source AI/ML & data science collaborations
 
 </td>
 <td width="50%" valign="top">
 
-![Need help](https://img.shields.io/badge/Need%20help%20with-4F8EF7?style=flat-square) scaling ML models for production
+🔵 &nbsp;**Need help with** — scaling ML models for production
 
-![Ask me](https://img.shields.io/badge/Ask%20me%20about-2EC4B6?style=flat-square) Computer Vision, Deep Learning, Graph Analytics, Python for ML
+🟢 &nbsp;**Ask me about** — Computer Vision, Deep Learning, Graph Analytics, Python for ML
 
-![Currently](https://img.shields.io/badge/Currently-A78BFA?style=flat-square) Pre-final-year B.Tech, AI & ML — CGPA `8.78/10`
+🟣 &nbsp;**Currently** — Pre-final-year B.Tech, AI & ML — CGPA `8.78/10`
 
-![Fun fact](https://img.shields.io/badge/Fun%20fact-D4AF37?style=flat-square) I'll happily burn an hour of compute for one extra point of accuracy
+🟡 &nbsp;**Fun fact** — I'll happily burn an hour of compute for one extra point of accuracy
 
 </td>
 </tr>
@@ -70,13 +70,13 @@ I'm a pre-final-year **B.Tech in AI & ML** student at **Vishnu Institute of Tech
 
 | ATTRIBUTE | VALUE |
 |:--|:--|
-| ![CLASS](https://img.shields.io/badge/CLASS-4F8EF7?style=flat-square) | AI / ML Engineer |
-| ![GUILD](https://img.shields.io/badge/GUILD-2EC4B6?style=flat-square) | Vishnu Institute of Technology |
-| ![RANK](https://img.shields.io/badge/RANK-A78BFA?style=flat-square) | Pre-Final Year (Year 3) |
-| ![POWER LEVEL](https://img.shields.io/badge/POWER%20LEVEL-D4AF37?style=flat-square) | CGPA `8.78 / 10` |
-| ![ACTIVE QUEST](https://img.shields.io/badge/ACTIVE%20QUEST-4F8EF7?style=flat-square) | Summer Research Intern @ VLED Lab, IIT Ropar |
-| ![SPECIAL MOVE](https://img.shields.io/badge/SPECIAL%20MOVE-2EC4B6?style=flat-square) | Squeezing one more % of accuracy out of any model |
-| ![ACHIEVEMENT](https://img.shields.io/badge/ACHIEVEMENT-D4AF37?style=flat-square) | Google BigCode Program — selected for DSA & algorithmic problem-solving |
+| 🔵 **CLASS** | AI / ML Engineer |
+| 🟢 **GUILD** | Vishnu Institute of Technology |
+| 🟣 **RANK** | Pre-Final Year (Year 3) |
+| 🟡 **POWER LEVEL** | CGPA `8.78 / 10` |
+| 🔵 **ACTIVE QUEST** | Summer Research Intern @ VLED Lab, IIT Ropar |
+| 🟢 **SPECIAL MOVE** | Squeezing one more % of accuracy out of any model |
+| 🟡 **ACHIEVEMENT** | Google BigCode Program — selected for DSA & algorithmic problem-solving |
 
 </div>
 
@@ -84,11 +84,11 @@ I'm a pre-final-year **B.Tech in AI & ML** student at **Vishnu Institute of Tech
 
 | Skill | Progress | Level |
 |:--|:--|:--|
-| Python for ML | `████████████████████` 95% | ![Expert](https://img.shields.io/badge/Expert-D4AF37?style=flat-square) |
-| Data Analysis / EDA | `████████████████████` 95% | ![Expert](https://img.shields.io/badge/Expert-D4AF37?style=flat-square) |
-| Computer Vision | `█████████████████░░░` 85% | ![Advanced](https://img.shields.io/badge/Advanced-2EC4B6?style=flat-square) |
-| Deep Learning | `████████████████░░░░` 80% | ![Advanced](https://img.shields.io/badge/Advanced-2EC4B6?style=flat-square) |
-| DSA & Software Dev | `████████████████░░░░` 80% | ![Proficient](https://img.shields.io/badge/Proficient-4F8EF7?style=flat-square) |
+| Python for ML | `████████████████████` 95% | 🟡 Expert |
+| Data Analysis / EDA | `████████████████████` 95% | 🟡 Expert |
+| Computer Vision | `█████████████████░░░` 85% | 🟢 Advanced |
+| Deep Learning | `████████████████░░░░` 80% | 🟢 Advanced |
+| DSA & Software Dev | `████████████████░░░░` 80% | 🔵 Proficient |
 
 <br/>
 
@@ -163,13 +163,15 @@ flowchart TD
 timeline
     title Journey So Far
     section Foundation
-        2023 : Started B.Tech, AI & ML @ Vishnu Institute of Technology
-    section Breakthroughs
+        2024 : Started B.Tech, AI & ML @ Vishnu Institute of Technology
         2024 : Data Science Internship @ Developers Arena : +15% model accuracy : -40% data-prep time
+    section Breakthroughs
         2025 : Selected — Google BigCode Program : AIR 2139, ICAT National Assessment
         2025 : Finalist — Aspire Leaders Program, AI Ethics & Responsible ML
+        2025 : Finalist — SparkTank
     section Now
         2026 : Research Intern @ VLED Lab, IIT Ropar — Graph-based ML for relational data
+        2026 : Summer Projects '26 @ IIT Guwahati
 ```
 
 <div align="center">
@@ -177,8 +179,10 @@ timeline
 ![Google BigCode](https://img.shields.io/badge/SELECTED-Google_BigCode_Program-D4AF37?style=for-the-badge&labelColor=141B2D)
 ![ICAT](https://img.shields.io/badge/AIR_2139-ICAT_National_Assessment-D4AF37?style=for-the-badge&labelColor=141B2D)
 ![Aspire](https://img.shields.io/badge/FINALIST-Aspire_Leaders_Program-D4AF37?style=for-the-badge&labelColor=141B2D)
+![SparkTank](https://img.shields.io/badge/FINALIST-SparkTank-D4AF37?style=for-the-badge&labelColor=141B2D)
 ![Impact](https://img.shields.io/badge/%2B15%25_Accuracy_/_%E2%88%9240%25_Prep_Time-Developers_Arena_Internship-D4AF37?style=for-the-badge&labelColor=141B2D)
 ![VLED](https://img.shields.io/badge/Research_Intern-VLED_Lab,_IIT_Ropar-D4AF37?style=for-the-badge&labelColor=141B2D)
+![Guwahati](https://img.shields.io/badge/Summer_Projects_'26-IIT_Guwahati-D4AF37?style=for-the-badge&labelColor=141B2D)
 
 </div>
 
