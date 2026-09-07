@@ -8,9 +8,18 @@
 
 # Lakshmi Kanth Pulipaka
 
-**AI & ML Engineer** &nbsp;·&nbsp; **Computer Vision** &nbsp;·&nbsp; **Graph Analytics** &nbsp;·&nbsp; **Open Source**
+<img src="https://img.shields.io/badge/AI%20%26%20ML%20Engineer-4F8EF7?style=for-the-badge"/> <img src="https://img.shields.io/badge/Computer%20Vision-2EC4B6?style=for-the-badge"/> <img src="https://img.shields.io/badge/Graph%20Analytics-A78BFA?style=for-the-badge"/> <img src="https://img.shields.io/badge/Open%20Source-D4AF37?style=for-the-badge"/>
 
-**[About](#-about-me) · [Player Card](#-player-card) · [Skill Tree](#-skill-tree) · [Tech Arsenal](#-tech-arsenal) · [Interactive Lab](#-interactive-lab) · [Live Stats](#-live-stats) · [Projects](#-featured-projects) · [Connect](#-lets-connect)**
+<br/>
+
+<a href="#-about-me"><img src="https://img.shields.io/badge/About-4F8EF7?style=flat-square"/></a>
+<a href="#-player-card"><img src="https://img.shields.io/badge/Player%20Card-2EC4B6?style=flat-square"/></a>
+<a href="#-skill-tree"><img src="https://img.shields.io/badge/Skill%20Tree-A78BFA?style=flat-square"/></a>
+<a href="#-tech-arsenal"><img src="https://img.shields.io/badge/Tech%20Arsenal-D4AF37?style=flat-square"/></a>
+<a href="#-interactive-lab"><img src="https://img.shields.io/badge/Interactive%20Lab-4F8EF7?style=flat-square"/></a>
+<a href="#-live-stats"><img src="https://img.shields.io/badge/Live%20Stats-2EC4B6?style=flat-square"/></a>
+<a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-A78BFA?style=flat-square"/></a>
+<a href="#-lets-connect"><img src="https://img.shields.io/badge/Connect-D4AF37?style=flat-square"/></a>
 
 </div>
 
@@ -25,18 +34,24 @@ I'm a pre-final-year **B.Tech in AI & ML** student at **Vishnu Institute of Tech
 <tr>
 <td width="50%" valign="top">
 
-**Building:** deep learning & computer vision systems that ship, not just notebooks that run
-**Learning:** MLOps, system design, scalable model deployment
-**Researching:** graph-based ML for relational data @ VLED Lab, IIT Ropar
-**Open to:** open-source AI/ML & data science collaborations
+![Building](https://img.shields.io/badge/Building-4F8EF7?style=flat-square) deep learning & computer vision systems that ship, not just notebooks that run
+
+![Learning](https://img.shields.io/badge/Learning-2EC4B6?style=flat-square) MLOps, system design, scalable model deployment
+
+![Researching](https://img.shields.io/badge/Researching-A78BFA?style=flat-square) graph-based ML for relational data @ VLED Lab, IIT Ropar
+
+![Open to](https://img.shields.io/badge/Open%20to-D4AF37?style=flat-square) open-source AI/ML & data science collaborations
 
 </td>
 <td width="50%" valign="top">
 
-**Need help with:** scaling ML models for production
-**Ask me about:** Computer Vision, Deep Learning, Graph Analytics, Python for ML
-**Currently:** Pre-final-year B.Tech, AI & ML — CGPA `8.78/10`
-**Fun fact:** I'll happily burn an hour of compute for one extra point of accuracy
+![Need help](https://img.shields.io/badge/Need%20help%20with-4F8EF7?style=flat-square) scaling ML models for production
+
+![Ask me](https://img.shields.io/badge/Ask%20me%20about-2EC4B6?style=flat-square) Computer Vision, Deep Learning, Graph Analytics, Python for ML
+
+![Currently](https://img.shields.io/badge/Currently-A78BFA?style=flat-square) Pre-final-year B.Tech, AI & ML — CGPA `8.78/10`
+
+![Fun fact](https://img.shields.io/badge/Fun%20fact-D4AF37?style=flat-square) I'll happily burn an hour of compute for one extra point of accuracy
 
 </td>
 </tr>
@@ -51,25 +66,25 @@ I'm a pre-final-year **B.Tech in AI & ML** student at **Vishnu Institute of Tech
 
 | ATTRIBUTE | VALUE |
 |:--|:--|
-| **CLASS** | AI / ML Engineer |
-| **GUILD** | Vishnu Institute of Technology |
-| **RANK** | Pre-Final Year (Year 3) |
-| **POWER LEVEL (CGPA)** | `8.78 / 10` |
-| **ACTIVE QUEST** | Summer Research Intern @ VLED Lab, IIT Ropar |
-| **SPECIAL MOVE** | Squeezing one more % of accuracy out of any model |
-| **HIGHEST ACHIEVEMENT** | Google BigCode Program — selected for DSA & algorithmic problem-solving |
+| ![CLASS](https://img.shields.io/badge/CLASS-4F8EF7?style=flat-square) | AI / ML Engineer |
+| ![GUILD](https://img.shields.io/badge/GUILD-2EC4B6?style=flat-square) | Vishnu Institute of Technology |
+| ![RANK](https://img.shields.io/badge/RANK-A78BFA?style=flat-square) | Pre-Final Year (Year 3) |
+| ![POWER LEVEL](https://img.shields.io/badge/POWER%20LEVEL-D4AF37?style=flat-square) | CGPA `8.78 / 10` |
+| ![ACTIVE QUEST](https://img.shields.io/badge/ACTIVE%20QUEST-4F8EF7?style=flat-square) | Summer Research Intern @ VLED Lab, IIT Ropar |
+| ![SPECIAL MOVE](https://img.shields.io/badge/SPECIAL%20MOVE-2EC4B6?style=flat-square) | Squeezing one more % of accuracy out of any model |
+| ![ACHIEVEMENT](https://img.shields.io/badge/ACHIEVEMENT-D4AF37?style=flat-square) | Google BigCode Program — selected for DSA & algorithmic problem-solving |
 
 </div>
 
 **Skill XP**
 
-| Skill | Progress | Experience |
+| Skill | Progress | Level |
 |:--|:--|:--|
-| Python for ML | `████████████████████` 95% | 2+ years |
-| Data Analysis / EDA | `████████████████████` 95% | 2+ years |
-| Computer Vision | `█████████████████░░░` 85% | 1+ years |
-| Deep Learning | `████████████████░░░░` 80% | 1+ years |
-| DSA & Software Dev | `████████████████░░░░` 80% | 1+ years |
+| Python for ML | `████████████████████` 95% | ![Expert](https://img.shields.io/badge/Expert-D4AF37?style=flat-square) |
+| Data Analysis / EDA | `████████████████████` 95% | ![Expert](https://img.shields.io/badge/Expert-D4AF37?style=flat-square) |
+| Computer Vision | `█████████████████░░░` 85% | ![Advanced](https://img.shields.io/badge/Advanced-2EC4B6?style=flat-square) |
+| Deep Learning | `████████████████░░░░` 80% | ![Advanced](https://img.shields.io/badge/Advanced-2EC4B6?style=flat-square) |
+| DSA & Software Dev | `████████████████░░░░` 80% | ![Proficient](https://img.shields.io/badge/Proficient-4F8EF7?style=flat-square) |
 
 <br/>
 
@@ -303,38 +318,6 @@ Narrator: this is exactly why we check the confusion matrix.
 **Contribution Snake**
 
 <img src="https://raw.githubusercontent.com/kanth071/kanth071/output/github-contribution-grid-snake.svg" width="100%" alt="contribution snake"/>
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs once a day
-  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate a snake game from a GitHub contribution graph
-        uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push the generated files to the "output" branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 </div>
 
