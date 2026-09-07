@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=21&duration=3200&pause=1600&color=F0F6FC&background=141B2Dff&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=90&lines=Turning+research+into+systems+that+ship+%E2%80%94+not+notebooks+that+run.;Building+AI+for+logistics%2C+healthcare%2C+and+campus+safety.+%F0%9F%9A%80" alt="mission" />
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=21&duration=3400&pause=1600&color=F0F6FC&background=141B2Dff&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=90&lines=Selected+for+Google+BigCode.+Researching+graph-based+ML+at+IIT+Ropar.;3+ML+systems+shipped+in+logistics%2C+healthcare+%26+campus+safety+%E2%80%94+before+graduating." alt="mission" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Georgia&style=italic&weight=500&size=17&duration=1&pause=1000000&color=4F8EF7&background=00000000&center=true&width=560&height=30&lines=Code+with+precision.+Research+with+curiosity.+Build+for+impact." alt="motto" />
 
@@ -12,11 +12,15 @@
 
 <br/>
 
+<img src="https://img.shields.io/badge/🏅_Google_BigCode_Program-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/> <img src="https://img.shields.io/badge/🎯_AIR_2139_ICAT-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/> <img src="https://img.shields.io/badge/🔬_Research_Intern_·_IIT_Ropar-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/> <img src="https://img.shields.io/badge/🌐_Aspire_Leaders_Finalist-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/>
+
+<br/><br/>
+
 <a href="#-about-me"><img src="https://img.shields.io/badge/About-4F8EF7?style=flat-square"/></a>
 <a href="#-player-card"><img src="https://img.shields.io/badge/Player%20Card-2EC4B6?style=flat-square"/></a>
 <a href="#-skill-tree"><img src="https://img.shields.io/badge/Skill%20Tree-A78BFA?style=flat-square"/></a>
 <a href="#-tech-arsenal"><img src="https://img.shields.io/badge/Tech%20Arsenal-D4AF37?style=flat-square"/></a>
-<a href="#-interactive-lab"><img src="https://img.shields.io/badge/Interactive%20Lab-4F8EF7?style=flat-square"/></a>
+<a href="#-journey"><img src="https://img.shields.io/badge/Journey-4F8EF7?style=flat-square"/></a>
 <a href="#-live-stats"><img src="https://img.shields.io/badge/Live%20Stats-2EC4B6?style=flat-square"/></a>
 <a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-A78BFA?style=flat-square"/></a>
 <a href="#-lets-connect"><img src="https://img.shields.io/badge/Connect-D4AF37?style=flat-square"/></a>
@@ -150,141 +154,23 @@ flowchart TD
 
 <br/>
 
-<a id="-interactive-lab"></a>
-## Interactive Lab
+<a id="-journey"></a>
+## Journey
 
-*Three quick, click-to-expand challenges — a project knowledge check, a code-review game, and a branching what-happens-next story.*
+*How the CGPA, the internships, and the research fellowship actually line up.*
 
-### Knowledge Check
-
-<details>
-<summary><b>Challenge 1 — Delivery ETA Optimization</b></summary>
-<br/>
-
-> A graph-analytics platform predicts delivery ETAs and flags bottleneck hubs at **96%+ accuracy**, using Gradient Boosting plus Dijkstra/A* for route optimization and SLA breach monitoring.
->
-> **Riddle:** *I have no legs but I find the shortest way. I weigh every edge before I choose my say. What algorithm am I?*
-
-<details>
-<summary>Reveal answer</summary>
-
-Dijkstra's algorithm (with A* as the informed variant) — exactly what powers the route optimization layer of this project.
-
-</details>
-</details>
-
-<details>
-<summary><b>Challenge 2 — Bed Prediction</b></summary>
-<br/>
-
-> A hospital bed demand forecasting platform combining **XGBoost, Random Forest, and Prophet** for ICU/ward/emergency forecasting, hitting **90% average accuracy** with a live occupancy dashboard.
->
-> **Riddle:** *I don't predict the weather, but I was built for time. Meta gave me my name — what forecasting library am I?*
-
-<details>
-<summary>Reveal answer</summary>
-
-Prophet — Meta's time-series forecasting library, used here to project bed demand.
-
-</details>
-</details>
-
-<details>
-<summary><b>Challenge 3 — Campus Eye</b></summary>
-<br/>
-
-> A real-time AI surveillance and campus monitoring dashboard using **YOLOv8** for traffic violation detection, with automated event logging.
->
-> **Riddle:** *I see the whole frame in one glance, no sliding window, no second chance. What object-detection family am I?*
-
-<details>
-<summary>Reveal answer</summary>
-
-YOLO (You Only Look Once) — YOLOv8 specifically powers real-time detection in this dashboard.
-
-</details>
-</details>
-
-### Debug This
-
-<details>
-<summary><b>Click to open the file</b> — <code>validate.py</code></summary>
-<br/>
-
-```python
-def validate(model, val_loader):
-    total_correct = 0
-    for images, labels in val_loader:
-        outputs = model(images)
-        preds = outputs.argmax(dim=1)
-        total_correct += (preds == labels).sum().item()
-    return total_correct / len(val_loader.dataset)
+```mermaid
+timeline
+    title Journey So Far
+    section Foundation
+        2023 : Started B.Tech, AI & ML @ Vishnu Institute of Technology
+    section Breakthroughs
+        2024 : Data Science Internship @ Developers Arena : +15% model accuracy : -40% data-prep time
+        2025 : Selected — Google BigCode Program : AIR 2139, ICAT National Assessment
+        2025 : Finalist — Aspire Leaders Program, AI Ethics & Responsible ML
+    section Now
+        2026 : Research Intern @ VLED Lab, IIT Ropar — Graph-based ML for relational data
 ```
-
-One line is missing, and it's quietly inflating every validation score in this file. Spot it before checking the fix.
-
-<details>
-<summary>Reveal the bug</summary>
-
-No `model.eval()` (and no `torch.no_grad()`) before the loop. Without `eval()`, Dropout and BatchNorm layers stay in training mode, so validation numbers don't reflect real inference behavior — and without `no_grad()`, you're wasting memory computing gradients you'll never use.
-
-```python
-def validate(model, val_loader):
-    model.eval()
-    total_correct = 0
-    with torch.no_grad():
-        for images, labels in val_loader:
-            outputs = model(images)
-            preds = outputs.argmax(dim=1)
-            total_correct += (preds == labels).sum().item()
-    return total_correct / len(val_loader.dataset)
-```
-
-</details>
-</details>
-
-### Simulation — A Day in the Life of a Model
-
-<details>
-<summary>▶ <b>Press Start</b></summary>
-<br/>
-
-You open your laptop. Training run #47 finished overnight.
-
-<details>
-<summary>Check the validation accuracy</summary>
-<br/>
-
-96.2%. Better than yesterday. But something looks too clean in the confusion matrix.
-
-<details>
-<summary>Investigate the confusion matrix</summary>
-<br/>
-
-Found it — a data leak between the train and validation splits. Classic.
-
-<details>
-<summary>Fix the split and retrain</summary>
-<br/>
-
-**Achievement Unlocked — "Trust, But Verify"**
-Real accuracy: 91.4%. Lower number, higher confidence. Ship it.
-
-</details>
-</details>
-</details>
-
-<details>
-<summary>Skip validation and ship it anyway</summary>
-<br/>
-
-**Achievement Unlocked — "Production Incident #1"**
-Narrator: this is exactly why we check the confusion matrix.
-
-</details>
-</details>
-
-**Achievements Unlocked**
 
 <div align="center">
 
