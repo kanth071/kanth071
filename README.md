@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=20&duration=3400&pause=1600&color=F0F6FC&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=70&lines=Turning+research+into+intelligent+systems+that+solve+real-world+problems.;Building+AI+that+learns+from+data+and+creates+impact+across+industries.+%F0%9F%9A%80" alt="mission" />
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=20&duration=3400&pause=1600&color=D4AF37&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=70&lines=Turning+research+into+intelligent+systems+that+solve+real-world+problems.;Building+AI+that+learns+from+data+and+creates+impact+across+industries.+%F0%9F%9A%80" alt="mission" />
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 # Lakshmi Kanth Pulipaka
 
-**AI & ML Engineer**&nbsp; • &nbsp;**Computer Vision**&nbsp; • &nbsp;**Graph Analytics**&nbsp; • &nbsp;**Open Source**
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=17&duration=2200&pause=900&repeat=true&color=4F8EF7&background=00000000&center=true&vCenter=true&width=190&height=32&lines=AI+%26+ML+Engineer" alt="tag1"/>&nbsp;•&nbsp;<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=17&duration=2200&pause=900&repeat=true&color=2EC4B6&background=00000000&center=true&vCenter=true&width=170&height=32&lines=Computer+Vision" alt="tag2"/>&nbsp;•&nbsp;<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=17&duration=2200&pause=900&repeat=true&color=A78BFA&background=00000000&center=true&vCenter=true&width=170&height=32&lines=Graph+Analytics" alt="tag3"/>&nbsp;•&nbsp;<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=17&duration=2200&pause=900&repeat=true&color=D4AF37&background=00000000&center=true&vCenter=true&width=150&height=32&lines=Open+Source" alt="tag4"/>
 
 <br/>
 
