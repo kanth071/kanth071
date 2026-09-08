@@ -103,24 +103,24 @@ I'm a pre-final-year **B.Tech in AI & ML** student at **Vishnu Institute of Tech
 
 ```mermaid
 flowchart TD
-    A[["Foundations<br/>Python · Math · DSA"]] --> B[["Core ML<br/>NumPy · Pandas · scikit-learn"]]
-    B --> C[["Deep Learning<br/>TensorFlow"]]
-    C --> D[["Computer Vision<br/>OpenCV · YOLOv8 · MediaPipe"]]
-    C --> E[["Applied Systems<br/>FastAPI · Streamlit · Power BI"]]
-    D --> F(("Graph-Based ML<br/>VLED Lab, IIT Ropar"))
-    E --> G(("MLOps & System Design<br/>in progress"))
-    F --> H{{"Production-Grade AI"}}
-    G -.-> H
+A[["Foundations<br/>Python · Math · DSA"]] --> B[["Core ML<br/>NumPy · Pandas · scikit-learn"]]
+B --> C[["Deep Learning<br/>TensorFlow"]]
+C --> D[["Computer Vision<br/>OpenCV · YOLOv8 · MediaPipe"]]
+C --> E[["Applied Systems<br/>FastAPI · Streamlit · Power BI"]]
+D --> F(("Graph-Based ML<br/>VLED Lab, IIT Ropar"))
+E --> G(("MLOps & System Design<br/>in progress"))
+F --> H{{"Production-Grade AI"}}
+G -.-> H
 
-    classDef unlocked fill:#4F8EF7,stroke:#0D1117,color:#0D1117,stroke-width:2px;
-    classDef mastered fill:#2EC4B6,stroke:#0D1117,color:#0D1117,stroke-width:2px;
-    classDef inprogress fill:#0D1117,stroke:#F4B740,color:#F4B740,stroke-width:2px,stroke-dasharray:4 3;
-    classDef frontier fill:#141B2D,stroke:#A78BFA,color:#A78BFA,stroke-width:3px;
+classDef unlocked fill:#4F8EF7,stroke:#0D1117,color:#0D1117,stroke-width:2px;
+classDef mastered fill:#2EC4B6,stroke:#0D1117,color:#0D1117,stroke-width:2px;
+classDef inprogress fill:#0D1117,stroke:#F4B740,color:#F4B740,stroke-width:2px,stroke-dasharray:4 3;
+classDef frontier fill:#141B2D,stroke:#A78BFA,color:#A78BFA,stroke-width:3px;
 
-    class A,B unlocked;
-    class C,D,F mastered;
-    class E,G inprogress;
-    class H frontier;
+class A,B unlocked;
+class C,D,F mastered;
+class E,G inprogress;
+class H frontier;
 ```
 
 <br/>
@@ -165,17 +165,17 @@ flowchart TD
 
 ```mermaid
 timeline
-    title Journey So Far
-    section Foundation
-        2024 : Started B.Tech, AI & ML @ Vishnu Institute of Technology
-        2024 : Data Science Internship @ Developers Arena : +15% model accuracy : -40% data-prep time
-    section Breakthroughs
-        2025 : Selected — Google BigCode Program : AIR 2139, ICAT National Assessment
-        2025 : Finalist — Aspire Leaders Program, AI Ethics & Responsible ML
-        2025 : Finalist — SparkTank
-    section Now
-        2026 : Research Intern @ VLED Lab, IIT Ropar — Graph-based ML for relational data
-        2026 : Summer Projects '26 @ IIT Guwahati
+title Journey So Far
+section Foundation
+2024 : Started B.Tech, AI & ML @ Vishnu Institute of Technology
+2024 : Data Science Internship @ Developers Arena : +15% model accuracy : -40% data-prep time
+section Breakthroughs
+2025 : Selected — Google BigCode Program : AIR 2139, ICAT National Assessment
+2025 : Finalist — Aspire Leaders Program, AI Ethics & Responsible ML
+2025 : Finalist — SparkTank
+section Now
+2026 : Research Intern @ VLED Lab, IIT Ropar — Graph-based ML for relational data
+2026 : Summer Projects '26 @ IIT Guwahati
 ```
 
 <div align="center">
@@ -202,6 +202,7 @@ timeline
 
 <br/><br/>
 
+
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=kanth071&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4F8EF7&text_color=C9D1D9&icon_color=2EC4B6&border_color=141B2D" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanth071&layout=compact&hide_border=true&bg_color=0D1117&title_color=4F8EF7&text_color=C9D1D9&border_color=141B2D" />
 
@@ -209,13 +210,15 @@ timeline
 
 <img src="https://github-profile-trophy.vercel.app/?username=kanth071&theme=algolia&no-frame=true&row=1&column=7" />
 
-**Contribution Snake**
+**🐍 Contribution Snake**
 
-<img src="https://raw.githubusercontent.com/kanth071/kanth071/output/github-contribution-grid-snake.svg" width="100%" alt="contribution snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kanth071/kanth071/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kanth071/kanth071/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/kanth071/kanth071/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
+</picture>
 
 </div>
-
-> The snake eats your contribution graph and needs one setup step: add the `snake.yml` workflow (delivered alongside this file) to `.github/workflows/` in your `kanth071/kanth071` repo, then enable Actions once under Settings → Actions. GitHub requires this as a separate workflow file — it can't live inside `README.md` itself — but after the first run it updates on its own every day.
 
 <br/>
 
