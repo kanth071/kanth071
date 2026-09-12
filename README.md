@@ -1,5 +1,15 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=20&duration=3400&pause=1600&color=D4AF37&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=70&lines=Turning+research+into+intelligent+systems+that+solve+real-world+problems.;Building+AI+that+learns+from+data+and+creates+impact+across+industries.+%F0%9F%9A%80" alt="mission" />
+
+<br/>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<img src="https://readme-typing-svg.demolab.com/?font=Georgia&style=italic&weight=500&size=16&duration=1&pause=1000000&color=4F8EF7&background=00000000&center=true&width=560&height=28&lines=Code+with+precision.+Research+with+curiosity.+Build+for+impact." alt="motto" />
+
+<br/>
+
 # Lakshmi Kanth Pulipaka
 
 <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=20&duration=3200&pause=1400&color=8B949E&background=00000000&center=true&vCenter=true&width=720&height=32&lines=AI%2FML+Engineer+turning+research+into+real-world+systems." alt="tagline" />
@@ -10,7 +20,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/🏅_Google_BigCode_Program-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/> <img src="https://img.shields.io/badge/🎯_AIR_2139_ICAT-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/> <img src="https://img.shields.io/badge/🚀_SparkTank_Finalist-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/> <img src="https://img.shields.io/badge/🔬_Research_Intern_·_IIT_Ropar-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/> <img src="https://img.shields.io/badge/🌐_Aspire_Leaders_Finalist-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/>
+<img src="https://img.shields.io/badge/🏅_Google_BigCode_Program-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/> <img src="https://img.shields.io/badge/💼_Developers_Arena_Internship-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/> <img src="https://img.shields.io/badge/🚀_SparkTank_Finalist-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/> <img src="https://img.shields.io/badge/🔬_Research_Intern_·_IIT_Ropar-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/> <img src="https://img.shields.io/badge/🌐_Aspire_Leaders_Finalist-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/> <img src="https://img.shields.io/badge/📊_Summer_Projects_'26_·_IIT_Guwahati-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/>
 
 <br/><br/>
 
