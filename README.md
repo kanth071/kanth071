@@ -19,7 +19,7 @@
 <br/><br/>
 
 <a href="#-about-me"><img src="https://img.shields.io/badge/About-4F8EF7?style=flat-square"/></a>
-<a href="#-player-card"><img src="https://img.shields.io/badge/Player%20Card-2EC4B6?style=flat-square"/></a>
+<a href="#-snapshot"><img src="https://img.shields.io/badge/Snapshot-2EC4B6?style=flat-square"/></a>
 <a href="#-skill-tree"><img src="https://img.shields.io/badge/Skill%20Tree-A78BFA?style=flat-square"/></a>
 <a href="#-tech-arsenal"><img src="https://img.shields.io/badge/Tech%20Arsenal-D4AF37?style=flat-square"/></a>
 <a href="#-journey"><img src="https://img.shields.io/badge/Journey-4F8EF7?style=flat-square"/></a>
@@ -65,32 +65,32 @@ I'm a pre-final-year **B.Tech in AI & ML** student at **Vishnu Institute of Tech
 
 <br/>
 
-<a id="-player-card"></a>
-## Player Card
+<a id="-snapshot"></a>
+## Snapshot
 
 <div align="center">
 
-| ATTRIBUTE | VALUE |
+| | |
 |:--|:--|
-| 🔵 **CLASS** | AI / ML Engineer |
-| 🟢 **GUILD** | Vishnu Institute of Technology |
-| 🟣 **RANK** | Pre-Final Year (Year 3) |
-| 🟡 **POWER LEVEL** | CGPA `8.78 / 10` |
-| 🔵 **ACTIVE QUEST** | Summer Research Intern @ VLED Lab, IIT Ropar |
-| 🟢 **SPECIAL MOVE** | Squeezing one more % of accuracy out of any model |
-| 🟡 **ACHIEVEMENT** | Google BigCode Program — selected for DSA & algorithmic problem-solving |
+| **Role** | AI / ML Engineer |
+| **Institution** | Vishnu Institute of Technology |
+| **Year** | Pre-Final Year (3rd Year) |
+| **CGPA** | `8.78 / 10` |
+| **Current Focus** | Summer Research Intern @ VLED Lab, IIT Ropar |
+| **Strength** | Squeezing one more % of accuracy out of any model |
+| **Recognition** | Google BigCode Program — selected for DSA & algorithmic problem-solving |
 
 </div>
 
-**Skill XP**
+**Core Skills**
 
-| Skill | Progress | Level |
+| Skill | Proficiency | Level |
 |:--|:--|:--|
-| Python for ML | `████████████████████` 95% | 🟡 Expert |
-| Data Analysis / EDA | `████████████████████` 95% | 🟡 Expert |
-| Computer Vision | `█████████████████░░░` 85% | 🟢 Advanced |
-| Deep Learning | `████████████████░░░░` 80% | 🟢 Advanced |
-| DSA & Software Dev | `████████████████░░░░` 80% | 🔵 Proficient |
+| Python for ML | `████████████████████` 95% | Expert |
+| Data Analysis / EDA | `████████████████████` 95% | Expert |
+| Computer Vision | `█████████████████░░░` 85% | Advanced |
+| Deep Learning | `████████████████░░░░` 80% | Advanced |
+| DSA & Software Dev | `████████████████░░░░` 80% | Proficient |
 
 <br/>
 
