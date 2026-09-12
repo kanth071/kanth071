@@ -14,11 +14,7 @@
 
 <img src="https://img.shields.io/badge/AI%2FML_ENGINEER-141B2D?style=for-the-badge&labelColor=141B2D&color=4F8EF7"/> <img src="https://img.shields.io/badge/COMPUTER_VISION-141B2D?style=for-the-badge&labelColor=141B2D&color=2EC4B6"/> <img src="https://img.shields.io/badge/OPEN_SOURCE-141B2D?style=for-the-badge&labelColor=141B2D&color=D4AF37"/>
 
-<br/>
-
-<img src="https://img.shields.io/badge/🏅_Google_BigCode_Program-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/> <img src="https://img.shields.io/badge/💼_4%2B_Internships-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/> <img src="https://img.shields.io/badge/🚀_SparkTank_Finalist-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/>
-
-<img src="https://img.shields.io/badge/🔬_Research_Intern_·_IIT_Ropar-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/> <img src="https://img.shields.io/badge/🌐_Aspire_Leaders_Finalist-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/> <img src="https://img.shields.io/badge/📊_Summer_Projects_'26_·_IIT_Guwahati-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/>
+<sub>🏅 Google BigCode Program &nbsp;•&nbsp; 💼 4+ Internships &nbsp;•&nbsp; 🚀 SparkTank Finalist &nbsp;•&nbsp; 🔬 Research Intern @ IIT Ropar &nbsp;•&nbsp; 🌐 Aspire Leaders Finalist &nbsp;•&nbsp; 📊 Summer Projects '26 @ IIT Guwahati</sub>
 
 <br/><br/>
 
