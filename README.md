@@ -169,8 +169,13 @@ class H frontier;
 <summary><b>🟦 2024 — Foundation</b></summary>
 <br/>
 
-- Started B.Tech, AI & ML @ Vishnu Institute of Technology
-- Data Science Internship @ Developers Arena — +15% model accuracy, −40% data-prep time
+<div align="center">
+
+![Started](https://img.shields.io/badge/STARTED-B.Tech_AI_%26_ML_@_Vishnu_Institute-4F8EF7?style=for-the-badge&labelColor=141B2D)
+![Internship](https://img.shields.io/badge/INTERNSHIP-Developers_Arena-4F8EF7?style=for-the-badge&labelColor=141B2D)
+![Impact](https://img.shields.io/badge/%2B15%25_Accuracy_/_%E2%88%9240%25_Prep_Time-Internship_Impact-4F8EF7?style=for-the-badge&labelColor=141B2D)
+
+</div>
 
 </details>
 
@@ -178,8 +183,12 @@ class H frontier;
 <summary><b>🟪 2025 — Breakthroughs</b></summary>
 <br/>
 
-- Finalist — Aspire Leaders Program, AI Ethics & Responsible ML
-- Finalist — SparkTank
+<div align="center">
+
+![Aspire](https://img.shields.io/badge/FINALIST-Aspire_Leaders_Program-A78BFA?style=for-the-badge&labelColor=141B2D)
+![SparkTank](https://img.shields.io/badge/FINALIST-SparkTank-A78BFA?style=for-the-badge&labelColor=141B2D)
+
+</div>
 
 </details>
 
@@ -187,8 +196,12 @@ class H frontier;
 <summary><b>🟨 2026 — Now</b></summary>
 <br/>
 
-- Research Intern @ VLED Lab, IIT Ropar — open-source AI/ML contributions
-- Summer Projects '26 @ IIT Guwahati — graph-based ML for relational data
+<div align="center">
+
+![VLED](https://img.shields.io/badge/RESEARCH_INTERN-VLED_Lab,_IIT_Ropar_%E2%80%94_Open--Source_AI%2FML-D4AF37?style=for-the-badge&labelColor=141B2D)
+![Guwahati](https://img.shields.io/badge/SUMMER_PROJECTS_'26-IIT_Guwahati_%E2%80%94_Graph--Based_ML-D4AF37?style=for-the-badge&labelColor=141B2D)
+
+</div>
 
 </details>
 
