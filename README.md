@@ -169,15 +169,11 @@ class H frontier;
 timeline
 title Journey So Far
 section Foundation
-2024 : Started B.Tech, AI & ML @ Vishnu Institute of Technology
-2024 : Data Science Internship @ Developers Arena : +15% model accuracy : -40% data-prep time
+2024 : Started B.Tech, AI & ML @ Vishnu Institute of Technology : Data Science Internship @ Developers Arena — +15% accuracy, -40% data-prep time
 section Breakthroughs
-2025 : Selected — Google BigCode Program : AIR 2139, ICAT National Assessment
-2025 : Finalist — Aspire Leaders Program, AI Ethics & Responsible ML
-2025 : Finalist — SparkTank
+2025 : Finalist — Aspire Leaders Program, AI Ethics & Responsible ML : Finalist — SparkTank
 section Now
-2026 : Research Intern @ VLED Lab, IIT Ropar — Open-source AI/ML contributions
-2026 : Summer Projects '26 @ IIT Guwahati — Graph-based ML for relational data
+2026 : Research Intern @ VLED Lab, IIT Ropar — Open-source AI/ML contributions : Summer Projects '26 @ IIT Guwahati — Graph-based ML for relational data
 ```
 
 <br/>
