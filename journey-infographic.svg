@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" font-family="Verdana, Geneva, sans-serif">
+<rect x="0" y="0" width="1200" height="640" fill="#0D1117"/>
+<circle cx="120" cy="60" r="140" fill="#4F8EF7" opacity="0.05"/>
+<circle cx="1080" cy="580" r="180" fill="#D4AF37" opacity="0.05"/>
+<text x="600.0" y="52" text-anchor="middle" fill="#F0F6FC" font-size="38" font-weight="bold">My Journey</text>
+<text x="600.0" y="80" text-anchor="middle" fill="#D4AF37" font-size="14" letter-spacing="4">LEARNING  •  BUILDING  •  CONTRIBUTING</text>
+<text x="600.0" y="106" text-anchor="middle" fill="#8B949E" font-size="14" font-style="italic">From a first line of code to research that ships — one step at a time.</text>
+<line x1="40" y1="174.0" x2="1160" y2="174.0" stroke="#232B3D" stroke-width="3" stroke-dasharray="2 10" />
+<rect x="40" y="150" width="353" height="48" rx="24" fill="#4F8EF7"/>
+<circle cx="66" cy="174.0" r="21" fill="#13294B" stroke="#0D1117" stroke-width="3"/>
+<text x="66" y="181.0" text-anchor="middle" font-size="20">🎓</text>
+<text x="102" y="180.0" fill="#0D1117" font-size="18" font-weight="bold">2024 — FOUNDATION</text>
+<rect x="40" y="216" width="353" height="150" rx="14" fill="#161B29" stroke="#232B3D" stroke-width="1.5"/>
+<rect x="40" y="216" width="6" height="150" rx="3" fill="#4F8EF7"/>
+<text x="216.5" y="256" text-anchor="middle" font-size="26">🎓</text>
+<text x="216.5" y="288" text-anchor="middle" fill="#F0F6FC" font-size="16" font-weight="bold">B.Tech, AI &amp; ML</text>
+<text x="216.5" y="314" text-anchor="middle" fill="#C9D1D9" font-size="13">Vishnu Institute of Technology</text>
+<text x="216.5" y="333" text-anchor="middle" fill="#C9D1D9" font-size="13">CGPA 8.78 / 10</text>
+<rect x="40" y="384" width="353" height="150" rx="14" fill="#161B29" stroke="#232B3D" stroke-width="1.5"/>
+<rect x="40" y="384" width="6" height="150" rx="3" fill="#4F8EF7"/>
+<text x="216.5" y="424" text-anchor="middle" font-size="26">💼</text>
+<text x="216.5" y="456" text-anchor="middle" fill="#F0F6FC" font-size="16" font-weight="bold">Data Science Internship</text>
+<text x="216.5" y="482" text-anchor="middle" fill="#C9D1D9" font-size="13">Developers Arena</text>
+<text x="216.5" y="501" text-anchor="middle" fill="#C9D1D9" font-size="13">+15% accuracy · −40% prep time</text>
+<line x1="40" y1="560" x2="393" y2="560" stroke="#4F8EF7" stroke-width="2"/>
+<circle cx="216.5" cy="560" r="5" fill="#0D1117" stroke="#4F8EF7" stroke-width="2.5"/>
+<text x="216.5" y="586" text-anchor="middle" fill="#4F8EF7" font-size="11" letter-spacing="1.5" font-weight="bold">SKILLS  +  FOUNDATIONS  +  MOMENTUM</text>
+<rect x="423" y="150" width="353" height="48" rx="24" fill="#A78BFA"/>
+<circle cx="449" cy="174.0" r="21" fill="#2A2151" stroke="#0D1117" stroke-width="3"/>
+<text x="449" y="181.0" text-anchor="middle" font-size="20">🚀</text>
+<text x="485" y="180.0" fill="#0D1117" font-size="18" font-weight="bold">2025 — BREAKTHROUGHS</text>
+<rect x="423" y="216" width="353" height="150" rx="14" fill="#161B29" stroke="#232B3D" stroke-width="1.5"/>
+<rect x="423" y="216" width="6" height="150" rx="3" fill="#A78BFA"/>
+<text x="599.5" y="256" text-anchor="middle" font-size="26">🏆</text>
+<text x="599.5" y="288" text-anchor="middle" fill="#F0F6FC" font-size="16" font-weight="bold">Aspire Leaders Program</text>
+<text x="599.5" y="314" text-anchor="middle" fill="#C9D1D9" font-size="13">Finalist</text>
+<text x="599.5" y="333" text-anchor="middle" fill="#C9D1D9" font-size="13">AI Ethics &amp; Responsible ML</text>
+<rect x="423" y="384" width="353" height="150" rx="14" fill="#161B29" stroke="#232B3D" stroke-width="1.5"/>
+<rect x="423" y="384" width="6" height="150" rx="3" fill="#A78BFA"/>
+<text x="599.5" y="424" text-anchor="middle" font-size="26">💡</text>
+<text x="599.5" y="456" text-anchor="middle" fill="#F0F6FC" font-size="16" font-weight="bold">SparkTank</text>
+<text x="599.5" y="482" text-anchor="middle" fill="#C9D1D9" font-size="13">Finalist</text>
+<text x="599.5" y="501" text-anchor="middle" fill="#C9D1D9" font-size="13">Turned ideas into solutions</text>
+<line x1="423" y1="560" x2="776" y2="560" stroke="#A78BFA" stroke-width="2"/>
+<circle cx="599.5" cy="560" r="5" fill="#0D1117" stroke="#A78BFA" stroke-width="2.5"/>
+<text x="599.5" y="586" text-anchor="middle" fill="#A78BFA" font-size="11" letter-spacing="1.5" font-weight="bold">LEADERSHIP  +  INNOVATION  +  IMPACT</text>
+<rect x="806" y="150" width="353" height="48" rx="24" fill="#D4AF37"/>
+<circle cx="832" cy="174.0" r="21" fill="#3A2F10" stroke="#0D1117" stroke-width="3"/>
+<text x="832" y="181.0" text-anchor="middle" font-size="20">🔬</text>
+<text x="868" y="180.0" fill="#0D1117" font-size="18" font-weight="bold">2026 — NOW</text>
+<rect x="806" y="216" width="353" height="150" rx="14" fill="#161B29" stroke="#232B3D" stroke-width="1.5"/>
+<rect x="806" y="216" width="6" height="150" rx="3" fill="#D4AF37"/>
+<text x="982.5" y="256" text-anchor="middle" font-size="26">🔬</text>
+<text x="982.5" y="288" text-anchor="middle" fill="#F0F6FC" font-size="16" font-weight="bold">Research Intern</text>
+<text x="982.5" y="314" text-anchor="middle" fill="#C9D1D9" font-size="13">VLED Lab, IIT Ropar</text>
+<text x="982.5" y="333" text-anchor="middle" fill="#C9D1D9" font-size="13">Open-source AI/ML contributions</text>
+<rect x="806" y="384" width="353" height="150" rx="14" fill="#161B29" stroke="#232B3D" stroke-width="1.5"/>
+<rect x="806" y="384" width="6" height="150" rx="3" fill="#D4AF37"/>
+<text x="982.5" y="424" text-anchor="middle" font-size="26">📊</text>
+<text x="982.5" y="456" text-anchor="middle" fill="#F0F6FC" font-size="16" font-weight="bold">Summer Projects '26</text>
+<text x="982.5" y="482" text-anchor="middle" fill="#C9D1D9" font-size="13">IIT Guwahati</text>
+<text x="982.5" y="501" text-anchor="middle" fill="#C9D1D9" font-size="13">Graph-based ML, relational data</text>
+<line x1="806" y1="560" x2="1159" y2="560" stroke="#D4AF37" stroke-width="2"/>
+<circle cx="982.5" cy="560" r="5" fill="#0D1117" stroke="#D4AF37" stroke-width="2.5"/>
+<text x="982.5" y="586" text-anchor="middle" fill="#D4AF37" font-size="11" letter-spacing="1.5" font-weight="bold">RESEARCH  +  OPEN SOURCE  +  IMPACT</text>
+<text x="1160" y="620" text-anchor="end" fill="#8B949E" font-size="12" letter-spacing="2">🧭  THE JOURNEY CONTINUES…</text>
+</svg>
