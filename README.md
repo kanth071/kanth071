@@ -12,7 +12,7 @@
 
 # Lakshmi Kanth Pulipaka
 
-<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=17&duration=2200&pause=900&repeat=true&color=4F8EF7&background=00000000&center=true&vCenter=true&width=190&height=32&lines=AI+%26+ML+Engineer" alt="tag1"/>&nbsp;•&nbsp;<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=17&duration=2200&pause=900&repeat=true&color=2EC4B6&background=00000000&center=true&vCenter=true&width=170&height=32&lines=Computer+Vision" alt="tag2"/>&nbsp;•&nbsp;<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=17&duration=2200&pause=900&repeat=true&color=A78BFA&background=00000000&center=true&vCenter=true&width=170&height=32&lines=Graph+Analytics" alt="tag3"/>&nbsp;•&nbsp;<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=17&duration=2200&pause=900&repeat=true&color=D4AF37&background=00000000&center=true&vCenter=true&width=150&height=32&lines=Open+Source" alt="tag4"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=17&duration=2200&pause=900&repeat=true&color=4F8EF7&background=00000000&center=true&vCenter=true&width=190&height=32&lines=AI+%26+ML+Engineer" alt="tag1"/>&nbsp;•&nbsp;<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=17&duration=2200&pause=900&repeat=true&color=2EC4B6&background=00000000&center=true&vCenter=true&width=170&height=32&lines=Computer+Vision" alt="tag2"/>&nbsp;•&nbsp;<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=17&duration=2200&pause=900&repeat=true&color=D4AF37&background=00000000&center=true&vCenter=true&width=150&height=32&lines=Open+Source" alt="tag4"/>
 
 <br/>
 
@@ -36,7 +36,7 @@
 <a id="-about-me"></a>
 ## About Me
 
-I'm a pre-final-year **B.Tech in AI & ML** student at **Vishnu Institute of Technology** (CGPA `8.78/10`), currently a **Research Intern at the VLED Lab, IIT Ropar**, working on graph-based ML for large-scale relational data. I like problems that involve a graph, a deadline, and a model that refuses to converge on the first try.
+I'm a pre-final-year **B.Tech in AI & ML** student at **Vishnu Institute of Technology** (CGPA `8.78/10`), currently a **Research Intern at the VLED Lab, IIT Ropar**, contributing to open-source AI/ML projects — alongside a graph-based ML project for large-scale relational data at **IIT Guwahati**. I like problems that involve a graph, a deadline, and a model that refuses to converge on the first try.
 
 <table>
 <tr>
@@ -46,7 +46,7 @@ I'm a pre-final-year **B.Tech in AI & ML** student at **Vishnu Institute of Tech
 
 🟢 &nbsp;**Learning** — MLOps, system design, scalable model deployment
 
-🟣 &nbsp;**Researching** — graph-based ML for relational data @ VLED Lab, IIT Ropar
+🟣 &nbsp;**Researching** — graph-based ML for relational data @ IIT Guwahati
 
 🟡 &nbsp;**Open to** — open-source AI/ML & data science collaborations
 
@@ -107,9 +107,11 @@ A[["Foundations<br/>Python · Math · DSA"]] --> B[["Core ML<br/>NumPy · Pandas
 B --> C[["Deep Learning<br/>TensorFlow"]]
 C --> D[["Computer Vision<br/>OpenCV · YOLOv8 · MediaPipe"]]
 C --> E[["Applied Systems<br/>FastAPI · Streamlit · Power BI"]]
-D --> F(("Graph-Based ML<br/>VLED Lab, IIT Ropar"))
+D --> F(("Open-Source Contributions<br/>VLED Lab, IIT Ropar"))
+D --> I(("Graph-Based ML<br/>IIT Guwahati"))
 E --> G(("MLOps & System Design<br/>in progress"))
 F --> H{{"Production-Grade AI"}}
+I --> H
 G -.-> H
 
 classDef unlocked fill:#4F8EF7,stroke:#0D1117,color:#0D1117,stroke-width:2px;
@@ -119,7 +121,7 @@ classDef frontier fill:#141B2D,stroke:#A78BFA,color:#A78BFA,stroke-width:3px;
 
 class A,B unlocked;
 class C,D,F mastered;
-class E,G inprogress;
+class E,G,I inprogress;
 class H frontier;
 ```
 
@@ -174,21 +176,9 @@ section Breakthroughs
 2025 : Finalist — Aspire Leaders Program, AI Ethics & Responsible ML
 2025 : Finalist — SparkTank
 section Now
-2026 : Research Intern @ VLED Lab, IIT Ropar — Graph-based ML for relational data
-2026 : Summer Projects '26 @ IIT Guwahati
+2026 : Research Intern @ VLED Lab, IIT Ropar — Open-source AI/ML contributions
+2026 : Summer Projects '26 @ IIT Guwahati — Graph-based ML for relational data
 ```
-
-<div align="center">
-
-![Google BigCode](https://img.shields.io/badge/SELECTED-Google_BigCode_Program-D4AF37?style=for-the-badge&labelColor=141B2D)
-![ICAT](https://img.shields.io/badge/AIR_2139-ICAT_National_Assessment-D4AF37?style=for-the-badge&labelColor=141B2D)
-![Aspire](https://img.shields.io/badge/FINALIST-Aspire_Leaders_Program-D4AF37?style=for-the-badge&labelColor=141B2D)
-![SparkTank](https://img.shields.io/badge/FINALIST-SparkTank-D4AF37?style=for-the-badge&labelColor=141B2D)
-![Impact](https://img.shields.io/badge/%2B15%25_Accuracy_/_%E2%88%9240%25_Prep_Time-Developers_Arena_Internship-D4AF37?style=for-the-badge&labelColor=141B2D)
-![VLED](https://img.shields.io/badge/Research_Intern-VLED_Lab,_IIT_Ropar-D4AF37?style=for-the-badge&labelColor=141B2D)
-![Guwahati](https://img.shields.io/badge/Summer_Projects_'26-IIT_Guwahati-D4AF37?style=for-the-badge&labelColor=141B2D)
-
-</div>
 
 <br/>
 
@@ -202,7 +192,6 @@ section Now
 
 <br/><br/>
 
-
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=kanth071&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4F8EF7&text_color=C9D1D9&icon_color=2EC4B6&border_color=141B2D" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanth071&layout=compact&hide_border=true&bg_color=0D1117&title_color=4F8EF7&text_color=C9D1D9&border_color=141B2D" />
 
@@ -213,9 +202,9 @@ section Now
 **🐍 Contribution Snake**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kanth071/kanth071/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kanth071/kanth071/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/kanth071/kanth071/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kanth071/kanth071/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kanth071/kanth071/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/kanth071/kanth071/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
 </picture>
 
 </div>
@@ -286,6 +275,6 @@ Ready to collaborate on data-driven projects, AI/ML solutions, or research ideas
 <a id="-what-keeps-me-building"></a>
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Georgia&style=italic&weight=600&size=24&pause=100000&color=D4AF37&background=141B2Dff&center=true&vCenter=true&width=760&height=70&lines=%22Discipline+looks+boring+until+you+see+what+it+builds.%22" alt="quote banner"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Georgia&style=italic&weight=600&size=24&pause=100000&color=D4AF37&background=141B2Dff&center=true&vCenter=true&width=760&height=70&lines=%22Face+the+Failure%2C+Until+The+Failure+Fails+to+Face+You%22" alt="quote banner"/>
 
 </div>
