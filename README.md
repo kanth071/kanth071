@@ -16,7 +16,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/🏅_Google_BigCode_Program-141B2D?style=flat-square&labelColor=141B2D&color=4F8EF7"/> <img src="https://img.shields.io/badge/💼_4%2B_Internships-141B2D?style=flat-square&labelColor=141B2D&color=2EC4B6"/> <img src="https://img.shields.io/badge/🚀_SparkTank_Finalist-141B2D?style=flat-square&labelColor=141B2D&color=A78BFA"/> <img src="https://img.shields.io/badge/🔬_Research_Intern_·_IIT_Ropar-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/> <img src="https://img.shields.io/badge/🌐_Aspire_Leaders_Finalist-141B2D?style=flat-square&labelColor=141B2D&color=4F8EF7"/> <img src="https://img.shields.io/badge/📊_Summer_Projects_'26_·_IIT_Guwahati-141B2D?style=flat-square&labelColor=141B2D&color=2EC4B6"/>
+<img src="https://img.shields.io/badge/🏅_Google_BigCode_Program-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/> <img src="https://img.shields.io/badge/💼_4%2B_Internships-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/> <img src="https://img.shields.io/badge/🚀_SparkTank_Finalist-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/> <img src="https://img.shields.io/badge/🔬_Research_Intern_·_IIT_Ropar-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/> <img src="https://img.shields.io/badge/🌐_Aspire_Leaders_Finalist-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/> <img src="https://img.shields.io/badge/📊_Summer_Projects_'26_·_IIT_Guwahati-141B2D?style=flat-square&labelColor=141B2D&color=D4AF37"/>
 
 <br/><br/>
 
