@@ -163,18 +163,34 @@ class H frontier;
 <a id="-journey"></a>
 ## Journey
 
-*How the CGPA, the internships, and the research fellowship actually line up.*
+*How the CGPA, the internships, and the research fellowship actually line up — click a chapter to expand it.*
 
-```mermaid
-timeline
-title Journey So Far
-section Foundation
-2024 : Started B.Tech, AI & ML @ Vishnu Institute of Technology : Data Science Internship @ Developers Arena — +15% accuracy, -40% data-prep time
-section Breakthroughs
-2025 : Finalist — Aspire Leaders Program, AI Ethics & Responsible ML : Finalist — SparkTank
-section Now
-2026 : Research Intern @ VLED Lab, IIT Ropar — Open-source AI/ML contributions : Summer Projects '26 @ IIT Guwahati — Graph-based ML for relational data
-```
+<details>
+<summary><b>🟦 2024 — Foundation</b></summary>
+<br/>
+
+- Started B.Tech, AI & ML @ Vishnu Institute of Technology
+- Data Science Internship @ Developers Arena — +15% model accuracy, −40% data-prep time
+
+</details>
+
+<details>
+<summary><b>🟪 2025 — Breakthroughs</b></summary>
+<br/>
+
+- Finalist — Aspire Leaders Program, AI Ethics & Responsible ML
+- Finalist — SparkTank
+
+</details>
+
+<details open>
+<summary><b>🟨 2026 — Now</b></summary>
+<br/>
+
+- Research Intern @ VLED Lab, IIT Ropar — open-source AI/ML contributions
+- Summer Projects '26 @ IIT Guwahati — graph-based ML for relational data
+
+</details>
 
 <br/>
 
