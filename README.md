@@ -184,8 +184,6 @@ class H frontier;
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=kanth071&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4F8EF7&text_color=C9D1D9&icon_color=2EC4B6&border_color=141B2D" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanth071&layout=compact&hide_border=true&bg_color=0D1117&title_color=4F8EF7&text_color=C9D1D9&border_color=141B2D" />
 
-<img src="https://streak-stats.demolab.com/?user=kanth071&hide_border=true&background=0D1117&ring=4F8EF7&fire=D4AF37&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=2EC4B6&sideLabels=8B949E&dates=8B949E&stroke=141B2D" />
-
 <img src="https://github-profile-trophy.vercel.app/?username=kanth071&theme=algolia&no-frame=true&row=1&column=7" />
 
 **🐍 Contribution Snake**
