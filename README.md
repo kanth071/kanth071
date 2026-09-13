@@ -181,9 +181,8 @@ class H frontier;
 
 <br/><br/>
 
-<!--STATS:START-->
-<img src="contribution-stats.svg" alt="contribution stats"/>
-<!--STATS:END-->
+<img src="https://img.shields.io/badge/TOTAL_CONTRIBUTIONS_2026-380-4F8EF7?style=for-the-badge&labelColor=141B2D" alt="total contributions 2026"/>
+<img src="https://img.shields.io/badge/LAST_365_DAYS-391-2EC4B6?style=for-the-badge&labelColor=141B2D" alt="contributions last 365 days"/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=kanth071&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4F8EF7&text_color=C9D1D9&icon_color=2EC4B6&border_color=141B2D" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanth071&layout=compact&hide_border=true&bg_color=0D1117&title_color=4F8EF7&text_color=C9D1D9&border_color=141B2D" />
