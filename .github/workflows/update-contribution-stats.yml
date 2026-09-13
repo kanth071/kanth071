@@ -2,7 +2,7 @@ name: Update Contribution Stats
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '*/15 * * * *' # every 15 minutes
   push:
     branches: [main]
   workflow_dispatch:
