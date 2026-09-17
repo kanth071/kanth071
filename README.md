@@ -180,11 +180,7 @@ class H frontier;
 <img src="https://img.shields.io/github/followers/kanth071?label=FOLLOWERS&style=for-the-badge&labelColor=141B2D&color=4F8EF7" alt="followers"/>
 
 <br/><br/>
-<img src="https://img.shields.io/badge/TOTAL_CONTRIBUTIONS_2026-372-4F8EF7?style=for-the-badge&labelColor=141B2D" alt="total contributions 2026"/>
-<img src="https://img.shields.io/badge/LAST_365_DAYS-383-2EC4B6?style=for-the-badge&labelColor=141B2D" alt="contributions last 365 days"/>
 
-<sub>Last updated: 2026-09-13 · auto-refreshed via GitHub Actions</sub>
-<!--STATS:END-->
 
 <img src="https://img.shields.io/badge/TOTAL_CONTRIBUTIONS_2026-380-4F8EF7?style=for-the-badge&labelColor=141B2D" alt="total contributions 2026"/>
 <img src="https://img.shields.io/badge/LAST_365_DAYS-391-2EC4B6?style=for-the-badge&labelColor=141B2D" alt="contributions last 365 days"/>
